@@ -15,5 +15,5 @@ jobs:
           username: axelvanherle
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: axelvanherle/publish-packages-v2/game
+          repository: axelvanherle/publish-package-v2/game
           tag_with_sha: true
